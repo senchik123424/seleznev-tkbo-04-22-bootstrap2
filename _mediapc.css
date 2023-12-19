@@ -1,0 +1,216 @@
+
+@media (max-width: 1205px) {
+    .container{
+        margin: 0 auto;
+        max-width: 1200px;
+    }
+    .man1{
+        width: 395px;
+        height: 407px;
+        margin-left: 0 auto;
+    }
+    .px-4 {
+        padding-right: 1.5rem!important;
+        padding-left: 1rem!important; 
+    }
+    .carousel-caption {
+        position: absolute;
+        right: 4%;
+        bottom: 1.25rem;
+        left: 4%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: center;
+}
+
+@media (max-width: 1024px) {
+    .container{
+        margin: 0 auto;
+        max-width: 790px;
+    }
+    .nav-item{
+        justify-content: center;
+        font-size: 20px;
+    }
+    .d-flex{
+        justify-content: center;
+    }
+    .text-2 {
+        flex-wrap: nowrap;
+        padding-top: 10%;
+        padding-left: 9%;
+    }
+    .h1-1 {
+        color: #145855;
+        font-family: Josefin Sans;
+        font-size: 47px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 75px;
+        margin-top: 5%;
+        line-height: 110%;
+    }
+    .col-md-6 {
+        width: 55%;
+    }
+    .h1-2{
+        font-size: 50px;
+        line-height: 48px;
+
+        
+    }
+    .card{
+        font-size: 50px;
+    }
+    .textmany{
+        line-height: 90%;
+        font-size: 25px;
+    }
+    .mini{
+        padding-bottom: 4%;
+    }
+    .footer_logo{
+        height: 54px;
+        width: 201px;
+    }
+    .text_footer{
+        font-size: 14px;
+    }
+    .man1{
+        width: 351px;
+        height: 361px;
+       
+       
+    }
+    .mann{
+        width: 351px;
+        height: 361px;
+    }
+
+    .img-fluid {
+        width: 401px;
+        height: 411px;
+    }
+    .logo1{
+        height: 45px;
+        width: 176px;
+    }
+    .btn {
+        width: 140px;
+        height: 50px;
+        font-size: 14px;
+    }
+    
+    .text-1{
+        margin-top: 8%;
+        max-width: 90%;
+      } 
+    .button2{
+        margin-top: 1%;
+    }
+
+}
+@media (max-width: 768px) {
+    .container{
+      margin: 0 auto;
+      max-width: 368px;
+    }
+    .nav-item{
+        flex-direction: column;
+        font-size: 20px;
+    }
+    .d-flex{
+        justify-content: space-between;
+    }
+    .button2{
+        margin-top: 0%;
+      }
+      .p-1{
+        max-width: 95%;
+      }
+      .col-md-6 {
+         width: 100%; 
+        }  
+      
+      .btn {
+        width: 118px;
+        height: 42px;
+        font-size: 14px;
+    }
+      .man1 {
+        width: 230px;
+        height: 224px;
+        margin-right: auto;
+        margin-top: 5%;
+        margin-left: 9%;
+    }
+        .mann {
+            width: 334px;
+            height: 361px;
+        }
+      .h1-1{
+        
+        margin-bottom: 0;
+        margin-top: 0;
+      }
+      .h1-2{
+          line-height: 50px;
+      }
+      .sec1 {
+        background-image: url(image/bg.png);
+        background-size: auto;
+        height: 100%;
+        background-position: center top;
+        background-repeat: repeat;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-bottom: 2%;
+    }
+      .sec2 {
+          
+          padding-bottom:0;
+     }
+     .text-2 {
+        margin-bottom: 5%;
+        margin-top: -1%;
+        
+  }
+      .text-1 {
+         max-width: 100%;
+         margin-top: 2%;
+         
+        
+      }
+      .px-4 {
+          padding-right: 1.5rem!important;
+          padding-left: 0rem!important; 
+      }
+      .text_ff{
+          display: none;
+      }
+      .footer_logo{
+          height: 30px;
+          width: 176px;
+      }
+      .d-none {
+          display:block;
+      }
+      .card{
+          font-size: 40px;
+      }
+      .textmany{
+          font-size: 19px;
+          padding-top: 5%;
+      }
+      .accor{
+          font-size: 14px;
+          line-height: 150%;
+      }
+      .carousel {
+          height: 500px;
+          width: 80%;
+          margin: 0 auto;
+      }
+  }
+  }
